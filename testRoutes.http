@@ -1,0 +1,7 @@
+DELETE http://localhost:5000/users/cab7a29f-b5d4-442a-8a1b-5e8fab14de1a HTTP/1.1
+# content-type: application/json
+
+# {
+#     "email": "john@gmail.com",
+#     "role": "user"
+# }
